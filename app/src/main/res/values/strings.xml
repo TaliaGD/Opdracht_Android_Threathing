@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Opdracht_Android_Threathing</string>
+    <string name="str_tv_firstParty">Party 1</string>
+    <string name="str_tv_secondParty">Party 2</string>
+    <string name="str_tv_thirdParty">Party 3</string>
+    <string name="str_btn_start">Start</string>
+</resources>
